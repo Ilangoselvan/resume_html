@@ -1,0 +1,28 @@
+table,tr,td
+{
+	border:solid black;
+	border-collapse:collapse;
+}
+tr,td
+{ 
+	padding:30px;
+}
+
+h1{
+	text-align:center;
+}
+
+
+*{
+	margin:30px;
+}
+
+h3
+{
+background-color:grey;
+color:white;
+
+}
+aside{
+	float:right;
+}
